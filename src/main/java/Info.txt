@@ -1,0 +1,2 @@
+-- I've added Spring Security, but it is just for demonstration purpose. It will allow all requests.
+-- There is no any web view, just json result.
